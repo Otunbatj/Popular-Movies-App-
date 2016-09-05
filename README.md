@@ -1,0 +1,2 @@
+# Popular-Movies-App-
+Udacity Popular Movies Android App, a project worked in the Android Developers Nano Degree. Makes a network call to fetch movies poster and details from an API in a background thread, allows user defined sorting using a custom string saved in SharedPreference, movie can be added to favourite stored in a readable database that can be  queried using a ContentResolver so that user can access the movie details when offline
